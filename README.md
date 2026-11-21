@@ -1,4 +1,4 @@
-# 🎨 ITom Dev | Interactive 3D WebGL Portfolio
+# 🎨 Temeselew Buta | Interactive 3D WebGL Portfolio
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react" alt="React" />
